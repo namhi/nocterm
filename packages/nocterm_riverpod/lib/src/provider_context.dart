@@ -1,5 +1,5 @@
 import 'package:nocterm/nocterm.dart';
-import 'package:riverpod/riverpod.dart';
+import 'package:riverpod/src/internals.dart';
 
 import 'framework.dart';
 
